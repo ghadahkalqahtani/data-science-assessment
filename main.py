@@ -1,6 +1,5 @@
 import sqlite3
 import os
-
 expected_result = [
     (1, 'Financial Services', 40.0),
     (1, 'Real Estate', 30.0),
